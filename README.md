@@ -2,7 +2,7 @@
 Survive the zombies in an abandoned hospital. Use your weapons to deal with them and save the people in this game.
 
 # System Requirements
-OS: Windows 10/11 \n
+OS: Windows 10/11  
 Visual Studio 2013
 
 # How to build
