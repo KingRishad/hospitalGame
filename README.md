@@ -3,7 +3,7 @@ Survive the zombies in an abandoned hospital. Use your weapons to deal with them
 
 # System Requirements
 OS: Windows 10/11  
-Visual Studio 2013
+Application: Visual Studio 2013
 
 # How to build
 1. Download the source code as a zip file.
